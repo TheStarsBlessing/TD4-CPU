@@ -28,6 +28,7 @@ TYPE-C电源输入。
 
 ## 原理解析（硬件说明）
 
+TD4-CPU由ROM阵列，寄存器组，算数与逻辑单元，输入输出单元和时钟电路五部分组成
 
 ## 注意事项
 
@@ -38,7 +39,7 @@ TYPE-C电源输入。
 ## 参考图
 原理图
 ![SCH_TD4-CPU v1 1_2025-04-041](https://github.com/user-attachments/assets/09751efc-cfa3-46d1-bc78-450b53b434a7)
-![SCH_TD4-CPU v1 1_2025-04-042](https://github.com/user-attachments/assets/216e83fc-d218-4185-a336-2e1ea3f60bd9)
+![SCH_TD4-CPU v1 1_2025-04-072](https://github.com/user-attachments/assets/91bc5b03-d747-4e4a-94ae-0f0ae2f20b2d)
 ![SCH_TD4-CPU v1 1_2025-04-043](https://github.com/user-attachments/assets/1aab0533-a857-489e-bfd1-4be8fd4c6826)
 
 
