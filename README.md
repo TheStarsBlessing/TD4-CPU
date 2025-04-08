@@ -1,6 +1,7 @@
 # TD4-CPU
 
 这是一台由 74 系列数字电路芯片组成的满足冯·诺依曼提出的计算机的五个基本构建块的计算机。
+![3D_TD4_CPU v1 1_2025-04-05](https://github.com/user-attachments/assets/b20d53be-96db-415a-ad40-99f5a2076d9b)
 
 ## 项目简介
 
