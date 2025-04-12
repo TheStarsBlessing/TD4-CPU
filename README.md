@@ -105,7 +105,7 @@ PCB
 
 测试视频
 
-https://github.com/user-attachments/assets/cd116323-4932-4398-9d77-9e1552ecdb40
+https://github.com/user-attachments/assets/fe938cf9-944d-4810-b972-968d4ed37faa
 
 ## 版本更新
 2024.11.4 项目立项。
