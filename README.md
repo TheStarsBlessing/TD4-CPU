@@ -74,12 +74,15 @@ PCB采用四层板结构，板材为FR-4。 PCB尺寸为10cm x 10cm；默认板�
 焊接温度不应高于265℃，并且尽可能减少高温焊接时间，以免对元器件造成损坏。
 
 ## 参考图
+
 原理图
+
 ![SCH_TD4-CPU v1 1_2025-04-041](https://github.com/user-attachments/assets/09751efc-cfa3-46d1-bc78-450b53b434a7)
 ![SCH_TD4-CPU v1 1_2025-04-072](https://github.com/user-attachments/assets/91bc5b03-d747-4e4a-94ae-0f0ae2f20b2d)
 ![SCH_TD4-CPU v1 1_2025-04-043](https://github.com/user-attachments/assets/1aab0533-a857-489e-bfd1-4be8fd4c6826)
 
 PCB
+
 ![PCB_TD4_CPU v1 1_2025-04-121](https://github.com/user-attachments/assets/c3270392-1562-4e8f-a0e9-c66a0fd1068d)
 ![PCB_TD4_CPU v1 1_2025-04-122](https://github.com/user-attachments/assets/cd3aa48a-8275-4ffd-b9db-1990fda8d670)
 ![PCB_TD4_CPU v1 1_2025-04-1221](https://github.com/user-attachments/assets/92674e35-ea9b-43f4-9c60-6046755a9f17)
@@ -87,15 +90,20 @@ PCB
 
 
 仿真图
-![3D_TD4_CPU v1 1_2025-04-05](https://github.com/user-attachments/assets/b20d53be-96db-415a-ad40-99f5a2076d9b)
-![3D_TD4_CPU v1 1_2025-04-052](https://github.com/user-attachments/assets/452b4330-b5dc-4866-9420-5c32182f7f9b)
+
+![3D_TD4_CPU v1 1_2025-04-05](https://github.com/user-attachments/assets/fc878042-6e11-4365-ac08-039a254aeec4)
+![3D_TD4_CPU v1 1_2025-04-052](https://github.com/user-attachments/assets/645873ea-6514-4e01-886e-396b0138e7ff)
 
 
 实物图
+
 ![微信图片_20250405150307](https://github.com/user-attachments/assets/f5feb81f-9cf6-4a11-9d9b-a06f05859e21)
 ![微信图片_20250405150259](https://github.com/user-attachments/assets/2d6ae476-23bb-4764-a443-037b0c1a4189)
 ![微信图片_20250405150250](https://github.com/user-attachments/assets/3f1130c7-2d60-4ddb-9260-767b0a3f5782)
 
+测试视频
+
+https://github.com/user-attachments/assets/cd116323-4932-4398-9d77-9e1552ecdb40
 
 ## 版本更新
 2024.11.4 项目立项。
