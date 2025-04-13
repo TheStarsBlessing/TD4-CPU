@@ -1,4 +1,5 @@
 This is a computer consisting of 74 series digital circuit chips that satisfies the five basic building blocks of the computer proposed by von Neumann.
+![666](https://github.com/user-attachments/assets/5e9f2b35-b894-4463-9016-49d806b03b48)
 
 ## Project Brief Introduction
 
