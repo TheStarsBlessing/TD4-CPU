@@ -34,7 +34,7 @@ The ALU is composed of a multiplexer (MUX), an accumulator (ADD) and a logic uni
 
 The computer's instructions and corresponding variable values are as follows:
 
-|   assembly language   |   Binary   |SEL_A|SEL_B|MUX Options|LOAD0|LOAD1|LOAD2|LOAD3|LOAD option|ADD output items|
+|   Assembly language   |   Binary   |SEL_A|SEL_B|MUX Options|LOAD0|LOAD1|LOAD2|LOAD3|LOAD option|ADD output items|
 |----------|-----------|-----|-----|--------|-----|-----|-----|-----|----------|---------| 
 | ADD A,Im | 0000 XXXX |  0  |  0  |  REG_A |  0  |  1  |  1  |  1  |  REG_A   |   A+Im  |
 | MOV A,B  | 0001 0000 |  1  |  0  |  REG_B |  0  |  1  |  1  |  1  |  REG_A   |    B    |
